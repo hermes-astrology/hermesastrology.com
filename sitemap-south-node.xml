@@ -1,6 +1,3 @@
-Here is the XML sitemap for the provided South Node links with the `<lastmod>` date set to `2026-01-06`.
-
-```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
@@ -69,4 +66,3 @@ Here is the XML sitemap for the provided South Node links with the `<lastmod>` d
         <changefreq>monthly</changefreq>
     </url>
 </urlset>
-```
