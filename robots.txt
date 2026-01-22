@@ -3,4 +3,4 @@ Allow: /
 
 # Sitemaps
 Sitemap: https://hermesastrology.com/sitemap-gen.xml
-Sitemap: https://hermesastrology.com/sitemap-south-node.xml
+Sitemap: https://hermesastrology.com/sitemap-snode.xml
